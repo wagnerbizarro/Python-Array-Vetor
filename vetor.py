@@ -30,6 +30,7 @@ vetor[0] = "banana"
 print(vetor)
 
 #Remove item
+#cars.pop("apple")
 vetor.remove("apple")
 print(vetor)
 
